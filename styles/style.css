@@ -1,0 +1,24 @@
+div {
+    border: 1px solid black;
+    width: 300 px;
+  }
+  
+  #col1, #col2, #col1header, #col2header{
+    float: left;
+  }
+  
+  .margen-derecha{
+    margin-right: 10px;
+  }
+  
+  .margen-abajo{
+    margin-bottom: 10px;
+  }
+
+  #header1{
+    width:15%;
+  }
+
+  #header2{
+    width: 85%;
+  }
