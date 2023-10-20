@@ -8,17 +8,81 @@ div {
   }
   
   .margen-derecha{
-    margin-right: 10px;
+    margin-right: 4%;
   }
   
   .margen-abajo{
-    margin-bottom: 10px;
+    margin-bottom: 4%;
+  }
+
+  #col1header{
+    width:20%;
+    border: 0;
+  }
+
+  #col2header{
+    width: 79%;
+    border: 0;
+    background-color: rgb(249, 212, 110);
+    opacity: 0.8;
+    border-radius: 0px 5px 5px 0px ;
+  }
+
+  #col1{
+    width: 20%;
+    border: 0
+  }
+
+  #col2{
+    width: 74%;
+    border: 0
+  }
+
+  #sidebar1{
+   height: 40%;
+   background-color: rgb(243, 163, 159);
+   border: 0;
+   border-bottom: 2px solid rgb(195, 124, 124);
+   border-radius: 5px 5px 0px 0px;
+   opacity: 0.8;
+  }
+
+  #sidebar2{
+    height: 40%;
+    background-color: rgb(243, 163, 159);
+    border: 0;
+    border-radius: 0px 0px 5px 5px;
+    opacity: 0.8;
+   }
+
+  #main{
+    height: 63%;
+    background-color: rgb(182, 248, 152);
+    border: 0;
+    border-radius: 5px;
+    opacity: 0.8;
+  }
+
+  #footer{
+    height: 14%;
+    background-color: rgb(153, 183, 232);
+    border: 0;
+    border-radius: 5px;
+    opacity: 0.8;
   }
 
   #header1{
-    width:15%;
+    border: 0;
+    border-right: 1px solid rgb(156, 141, 88);
+    background-color: rgb(249, 212, 110);
+    height: 15%;
+    border-radius: 5px 0px 0px 5px;
+    opacity: 0.8;
   }
 
   #header2{
-    width: 85%;
+    border: 0;
+    margin-left: 4%;
+    border-left: 1px solid rgb(156, 141, 88);
+    height: 15%;
   }
